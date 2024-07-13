@@ -1,0 +1,9 @@
+variable "region" {}
+variable "vpc_id" {}
+variable "websubnet1" {}
+variable "websubnet2" {}
+variable "publicsubnet1" {}
+variable "publicsubnet2" {}
+variable "dbsubnet1" {}
+variable "dbsubnet2" {}
+variable "igw1" {}
